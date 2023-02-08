@@ -4,9 +4,7 @@
 <img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
-I'm a Software Engineering student and a 👨‍💻CyberSecurity enthusiast👨🏻‍💻 with 
-
-self motivation and natural passion for continuous learning and self-development.
+I'm a Software Engineering student and a 👨‍💻CyberSecurity enthusiast👨🏻‍💻 with self motivation and natural passion for continuous learning and self-development.
 
 <!-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects** -->
 
