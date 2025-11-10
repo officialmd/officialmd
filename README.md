@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mohamad!
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
-I'm a Computer Science student with self motivation and natural passion for continuous learning and self-development.
+I'm a Software Engineer with self motivation and natural passion for continuous learning and self-development.
 
 <!-- START NEW SECTION -->
  <!-- CONNECT WITH ME LINKS -->
